@@ -22,3 +22,7 @@ Megabits por segundo. Un megabit es 1 millón de bits de información. Esta es u
  Tambien se tuvo en cuenta los datasets complementarios como los extraidos de la pagina de INDEC ( Instituto Nacional de Estadística y Censos)que se tuvo que extraerlos desde la pagina como excel y hacerles transformaciones para tener como resultados los dataset poblacion_internet.csv y viviendas_poblacion.csv 
 
 En el dashboard se establecera la relacion que lleva la cantidad de accesos a servicios de internet con la cantidad de habitantes en hogares , el incremento de los ingresos a traves del tiempo con respecto a la suba de la velocidad de internet y tambien como afecta el numero de acceso de internet con el aumento de la poblacion total de la argentina.  
+
+
+
+
