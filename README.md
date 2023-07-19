@@ -1,3 +1,4 @@
 # proyect2
 
-![logo_enacom](https://github.com/38215290/proyect2/assets/127343400/02e8b335-bafc-4fbe-8319-9f9571e2c659)
+![image](https://github.com/38215290/proyect2/assets/127343400/e0e3244e-83b1-4e3f-bb06-55c3523eb199)
+
