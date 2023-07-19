@@ -1,6 +1,5 @@
 # proyect2
 
-![image](https://github.com/38215290/proyect2/assets/127343400/e0e3244e-83b1-4e3f-bb06-55c3523eb199)
 # En el siguiente analisis de datos se tuvo como objetivo :
 
 Mostrar el incremento en el servicio de acceso a internet en la republica argentina ,  en cada provincia y en la poblacion . Y como esto afecto a los ingresos de las empresas que brindan este servicio. Lo cual invita a tomar la decision , de invertir en este tipo de servicio a las empresas interesadas.
