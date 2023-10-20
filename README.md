@@ -1,8 +1,8 @@
 ## **Proyecto_ENACOM**
 
-# En el siguiente analisis de datos se tuvo como objetivo :
+# En el siguiente analisis de datos se tuvo como objetivo 
 
-Mostrar el incremento en el servicio de acceso a internet en la republica argentina ,  en cada provincia y en la poblacion . Y como esto afecto a los ingresos de las empresas que brindan este servicio. Lo cual invita a tomar la decision , de invertir en este tipo de servicio a las empresas interesadas.
+Mostrar el aumento en el acceso a Internet en la República Argentina, desglosado por provincia y población, y su impacto en los ingresos de las empresas proveedoras de este servicio, lo que plantea la posibilidad de inversión para las empresas interesadas.
 
 # EDA
 
